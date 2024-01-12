@@ -1,0 +1,52 @@
+body {
+    text-align: center;
+    background-color: #212534;
+    font-family: 'Graphik Trial', sans-serif;
+  }
+  
+  p {
+    color:#ccc
+  }
+
+  h1 {
+    color: #ccc;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+  }
+  
+  input {
+    padding: 5px;
+    font-size: 16px;
+  }
+  
+  button {
+    padding: 8px 12px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  #mensaje {
+    color: #81bff5;
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+    margin-top: 20px;
+  }
+
+  h4 {
+    color:#f5bb1b
+  }
+
+footer {
+  text-align: bottom;
+  position: absolute;
+  bottom: 10px;
+  width: 95rem;
+  color: #ccc;
+}
+
+a {
+  color: #cc269a;
+}
+  
